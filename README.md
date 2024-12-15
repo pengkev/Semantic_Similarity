@@ -31,7 +31,7 @@ The tool can be used to:
 
 ## File Descriptions
 
-- **`main.py`**: The main program containing all functions and logic.
+- **`synonyms.py`**: The main program containing all functions and logic.
 - **Text Corpora Files**:
   - `wp.txt`, `sw.txt`, `ed.txt`, `gg.txt`, `oz.txt`: Input text files used to build the semantic descriptors. These files should contain large amounts of text.
 - **`test.txt`**: A test file containing predefined word similarity questions in the following format:
